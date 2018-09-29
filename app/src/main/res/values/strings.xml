@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="popular">Most Popular</string>
+    <string name="toprated">Top Rated</string>
+    <string name="favorite">Favorites</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_activity_top_rated2">TopRated2</string>
+    <string name="title_activity_most_popular2">MostPopular2</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+</resources>
